@@ -3,8 +3,12 @@
 The Titanic challenge on Kaggle is a competition in which the task is to predict the survival or the death of a given passenger based on a set of variables describing him such as his age, his sex, or his passenger class on the boat.
 As I'm writing this post, I am ranked among the top 2% of all Kagglers: More than 17,974 teams are currently competing.
 
-Model Pipe line:
+Goal for this Notebook:
+-----------
+Show a simple example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities. This is aimed for those looking to get into the field or those who are already in the field and looking to see an example of an analysis done with Python.
 
+Model Pipe line:
+------
 * 1. Importing Libraries
 * 2. Importing Dataset
     * 2.1 Overview
